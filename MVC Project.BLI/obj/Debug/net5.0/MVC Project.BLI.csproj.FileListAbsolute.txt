@@ -1,0 +1,15 @@
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\bin\Debug\net5.0\MVC Project.BLI.deps.json
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\bin\Debug\net5.0\MVC Project.BLI.dll
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\bin\Debug\net5.0\MVC Project.BLI.pdb
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\bin\Debug\net5.0\MVC Project.DAL.dll
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\bin\Debug\net5.0\MVC Project.DAL.pdb
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\obj\Debug\net5.0\MVC Project.BLI.csproj.AssemblyReference.cache
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\obj\Debug\net5.0\MVC Project.BLI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\obj\Debug\net5.0\MVC Project.BLI.AssemblyInfoInputs.cache
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\obj\Debug\net5.0\MVC Project.BLI.AssemblyInfo.cs
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\obj\Debug\net5.0\MVC Project.BLI.csproj.CoreCompileInputs.cache
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\obj\Debug\net5.0\MVC Project.BLI.csproj.CopyComplete
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\obj\Debug\net5.0\MVC Project.BLI.dll
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\obj\Debug\net5.0\refint\MVC Project.BLI.dll
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\obj\Debug\net5.0\MVC Project.BLI.pdb
+F:\Route Academy\ASP.NET\ASP.NET Core MVC\MVC project solution\MVC Project.BLI\obj\Debug\net5.0\ref\MVC Project.BLI.dll

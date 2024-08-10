@@ -1,0 +1,26 @@
+﻿@model DepartmentViewModel
+
+<h1>Details of @Model.Name Department </h1>
+
+
+
+   
+        <div class="form-group">
+            <label asp-for="@Model.Code" class="col-from-lable"></label>
+             <input readonly asp-for="@Model.Code" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Name" class="col-from-lable"></label>
+    <input readonly asp-for="@Model.Name" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.DateofCreation" class="col-from-lable"></label>
+    <input readonly asp-for="@Model.DateofCreation" class="form-control" />
+        </div>
+        <br />
+
+        <a asp-action="Update" asp-route-id="@Model.Id" class="btn btn-secondary">Edit</a>
+            <a asp-action="Index" class="btn btn-light">Back to list</a>
+
+
+
